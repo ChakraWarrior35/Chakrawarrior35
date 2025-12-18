@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an engineering student focused on building practical, problem-driven technology at the intersection of software, AI, and robotics. My work spans web development, embedded systems, and AI-assisted applications, with an emphasis on clean architecture and real-world usability.<br><br>I have hands-on experience with Python, Java, and the MERN stack, along with a strong foundation in data structures, algorithms, and system design. Beyond software, I actively develop hardware-integrated projects involving sensors, microcontrollers, and real-time data processing.
+I am an engineering student focused on building practical, problem-driven technology at the intersection of software, AI, and robotics. My work spans web development, embedded systems, and AI-assisted applications, with an emphasis on clean architecture and real-world usability.<br><br>I have hands-on experience with Python, Java, c,and Django,Flask, along with a strong foundation in data structures, algorithms, and system design. Beyond software, I actively develop hardware-integrated projects involving sensors, microcontrollers, and real-time data processing.
 
 
 ## 🌐 Socials: na t
