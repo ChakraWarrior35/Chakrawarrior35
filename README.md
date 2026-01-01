@@ -2,7 +2,7 @@
 I am an engineering student focused on building practical, problem-driven technology at the intersection of software, AI, and robotics. My work spans web development, embedded systems, and AI-assisted applications, with an emphasis on clean architecture and real-world usability.<br><br>I have hands-on experience with Python, Java, c,and Django,Flask, along with a strong foundation in data structures, algorithms, and system design. Beyond software, I actively develop hardware-integrated projects involving sensors, microcontrollers, and real-time data processing.
 
 
-## 🌐 Socials: na t
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1EZnXCS9dz/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/torned._page_?igsh=bDY2cGtwYWY3dWc0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mandal-2045abhi?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mandal.abhishek2045@gmail.com) 
 
 # 💻 Tech Stack:
