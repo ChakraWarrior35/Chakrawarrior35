@@ -19,9 +19,8 @@ I am an engineering student focused on building practical, problem-driven techno
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChakraWarrior35&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=ChakraWarrior35&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChakraWarrior35&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
